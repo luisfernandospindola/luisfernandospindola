@@ -1,10 +1,8 @@
-Olá. Meu nome é Luis Fernando Spindola, tenho 34 anos, nascido em Campinas e morador de São Paulo (na verdade eu moro um pouco em cada uma destas cidades).
+Olá. Meu nome é Luis Fernando Spindola, tenho 35 anos, nascido em Campinas e morador de São Paulo Capital.
 
-Sou formado Técnico em Informática pelo Senac Campinas, desde 2004, e atuo na área de Suporte e Infraestrutura deste o ano de 2006, de maneira registrada. Além dessa formação, sou graduado em Gestão da Técnologia da Informação pela Unicesumar, desde 2020, e atualmente cursando Análise e Desenvolvimento de Sistemas.
+Sou formado Técnico em Informática pelo Senac Campinas, desde 2004, e atuei na área de TI como Analista de Suporte durante 15 anos. Além dessa formação, sou graduado em Gestão da Técnologia da Informação pela Unicesumar, desde 2020.
 
-Desde o fim de 2019, mais precisamente em Novembro, comecei a estudar programação e me encantei pela área. Se tornou o meu sonho trabalhar com Desenvolvimento Java, e sigo perseguindo esse caminho.
-
-Não tenho experiência prática, apenas os cursos que fiz e venho fazendo. Tenho um projeto aqui no GitHub, dá uma olhada, ficou bem legal: https://spindola-delivery.netlify.app/ (você tem tentar acessar mais de uma vez, porque como o servidor é gratuito ele "dorme", e aí só aparece o frontend. Não aparece os itens do backend, que são as pizzas!!! Mas se insistir um pouquinho ele acorda e roda direitinho.)
+Desde o fim de 2019, mais precisamente em Novembro comecei a estudar programação e me encantei pela área. Se tornou o meu sonho trabalhar com Desenvolvimento Java. Consegui minha primeira oportunidade em Março de 2021, na BRQ Digital Solutions, e desde então venho me dedicando bastante no meu primeiro emprego como desenvolvedor.
 
 E não se esqueça de visitar o meu Linkedin: https://www.linkedin.com/in/luisfernandospindola/. Se quiser conversar e saber um pouco mais da minha história, pode me adicionar e chamar no chat.
 
