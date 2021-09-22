@@ -7,11 +7,17 @@ Desde o fim de 2019, mais precisamente em Novembro comecei a estudar programaç�
 Invisto boa parte do meu tempo e dinheiro em cursos, e esses são os últimos que eu fiz:
 
 Spring Framework Expert - AlgaWorks - 2021,
+
 Spring Boot Api Rest - Alura - 2021,
+
 Java 2021 Completo - Udemy/Cod3r - 2021,
+
 Desenvolvimento Full Stack - Grande Porte Treinamentos - 2021,
+
 Formação Java e Orientação a Objetos - Alura - 2021,
+
 SCRUM: Agilidade em seu Projeto - Alura - 2021.
+
 
 E não se esqueça de visitar o meu Linkedin: https://www.linkedin.com/in/luisfernandospindola/. Se quiser conversar e saber um pouco mais da minha história, pode me adicionar e chamar no chat.
 
